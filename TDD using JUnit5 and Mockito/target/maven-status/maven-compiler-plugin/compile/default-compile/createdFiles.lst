@@ -1,2 +1,4 @@
 com\junit\MyService.class
+com\junit\MyNotificationService.class
+com\junit\NotificationApi.class
 com\junit\ExternalApi.class

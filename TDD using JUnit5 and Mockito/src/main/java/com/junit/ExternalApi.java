@@ -1,4 +1,4 @@
-package com.jnuit;
-public class ExternalApi {
+package com.junit;
+public interface ExternalApi {
     String getData();
 }
